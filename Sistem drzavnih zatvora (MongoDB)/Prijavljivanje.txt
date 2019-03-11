@@ -1,0 +1,12 @@
+Postoje 4 zatvora u bazi, za svaki zatvor ima po 2 admina i 2 strazara.
+1) nemanja1, nemanja1 i zoran1, zoran1 => admini
+1) jovan1, jovan1 i milos1, milos1 => strazari
+
+2) nemanja2, nemanja2 i zoran2, zoran2 => admini
+2) jovan2, jovan2 i milos2, milos2 => strazari
+
+3) nemanja3, nemanja3 i zoran3, zoran3 => admini
+3) jovan3, jovan3 i milos3, milos3 => strazari
+
+4) nemanja4, nemanja4 i zoran4, zoran4 => admini
+4) jovan4, jovan4 i milos4, milos4 => strazari
